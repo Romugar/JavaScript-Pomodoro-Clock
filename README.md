@@ -2,6 +2,8 @@
 
 ### Build a Pomodoro Clock
 
+Try it on Codepen: https://codepen.io/Romugar/pen/wJprvZ
+
 #### Objective
 
 Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/aNyxXR/.
